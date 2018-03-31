@@ -1,0 +1,20 @@
+{
+  "name": "testexcel",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "excel-to-json": "^1.0.0",
+    "install": "^0.11.0",
+    "npm": "^5.8.0",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "react-scripts": "1.1.1",
+    "xlsx": "^0.12.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
